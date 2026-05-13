@@ -19,8 +19,8 @@ const CONSTANTS = {
     accent: '#4ECDC4'
   },
   
-  API_BASE_URL: 'https://spacesurvivor0.onrender.com/api',
-  SOCKET_URL: 'https://spacesurvivo0.onrender.com',
+  API_BASE_URL: 'https://spacesurvivor0.railway.app/api' ,
+  SOCKET_URL: 'https://spacesurvivo0.railway.app' ,
   
   // Power-up types
   POWERUPS: {
