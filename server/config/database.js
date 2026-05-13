@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const connectDB = async () => {
   try {
     // HARDCODE sementara — tanpa process.env
-    const uri = 'mongodb://127.0.0.1:27017/space-survivor';
+    const uri = 'mongodb+srv://farrelfattan03_db_user:aWj2epnr6MRRwmBr@spacesurvivor0.bz4zchp.mongodb.net/?appName=spacesurvivor0';
     
     console.log('Connecting to MongoDB at:', uri);
     
