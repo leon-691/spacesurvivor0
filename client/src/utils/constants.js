@@ -20,7 +20,7 @@ const CONSTANTS = {
   },
   
   API_BASE_URL: 'https://spacesurvivor0.railway.app/api' ,
-  SOCKET_URL: 'https://spacesurvivo0.railway.app' ,
+  SOCKET_URL: 'https://spacesurvivor0.railway.app' ,
   
   // Power-up types
   POWERUPS: {
